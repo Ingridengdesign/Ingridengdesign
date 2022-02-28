@@ -21,16 +21,16 @@
   ##
  
 <div> 
- <a src="https://www.dribbble.com/ingridmanu" target="_blank">
+ <a src="https://www.dribbble.com/ingridmanu">
   <img align="center" width="64" src="https://img.icons8.com/color/100/000000/dribbble.png"/>
   </a>
- <a src="https://www.behance.net/ingridemanuelle" target="_blank">
+ <a src="https://www.behance.net/ingridemanuelle">
    <img align="center" width="64" src="https://img.icons8.com/color/100/000000/behance.png"/>
  </a> 
- <a href="https://www.linkedin.com/in/ingridemanuelle" target="_blank">
+ <a href="https://www.linkedin.com/in/ingridemanuelle">
   <img align="center" width="64" src="https://img.icons8.com/color/100/000000/linkedin.png"/>
  </a> 
-  <a href = "mailto:ingrid_engdesign@gmail.com" target="_blank">
+  <a href = "mailto:ingrid_engdesign@gmail.com">
   <img align="center" width="64" src="https://img.icons8.com/color/100/000000/secured-letter--v1.png"/>
  </a>
 </div>
