@@ -21,10 +21,10 @@
   ##
  
 <div> 
- <a src="https://www.dribbble.com/ingridmanu">
+ <a href="https://www.dribbble.com/ingridmanu">
   <img align="center" width="64" src="https://img.icons8.com/color/100/000000/dribbble.png"/>
   </a>
- <a src="https://www.behance.net/ingridemanuelle">
+ <a href="https://www.behance.net/ingridemanuelle">
    <img align="center" width="64" src="https://img.icons8.com/color/100/000000/behance.png"/>
  </a> 
  <a href="https://www.linkedin.com/in/ingridemanuelle">
