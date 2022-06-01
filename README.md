@@ -30,13 +30,13 @@
   ##
  
 <div> 
- <a href="https://www.dribbble.com/ingridmanu">
+ <a href="https://www.dribbble.com/ingridmanu" target="_blank">
   <img align="center" width="64" src="https://img.icons8.com/color/100/000000/dribbble.png"/>
   </a>
- <a href="https://www.behance.net/ingridemanuelle">
+ <a href="https://www.behance.net/ingridemanuelle" target="_blank">
    <img align="center" width="64" src="https://img.icons8.com/color/100/000000/behance.png"/>
  </a> 
- <a href="https://www.linkedin.com/in/ingridemanuelle">
+ <a href="https://www.linkedin.com/in/ingridemanuelle" target="_blank">
   <img align="center" width="64" src="https://img.icons8.com/color/100/000000/linkedin.png"/>
  </a> 
   <a href = "mailto:ingrid_engdesign@gmail.com">
