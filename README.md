@@ -34,6 +34,17 @@
   - JavaScript
   - HTML/CSS
  
+  ### Veja alguns dos meus projetos no GitHub Pages:
+  
+  - [Bikcraft](https://ingridengdesign.github.io/origamid-bikcraft/)
+  - [WildBeast](https://ingridengdesign.github.io/origamid-wildbeast/)
+  - [FlexBlog](https://ingridengdesign.github.io/origamid-flexblog/)
+  - [Instagram - Home Page](https://ingridengdesign.github.io/instagram-home-page/)
+  
+  #### Projeto ORACLE ONE - Alura:
+  - [Decodificador](https://ingridengdesign.github.io/ChallengeOneLogicaBr/)
+  
+  ---
   #### Para saber mais sobre mim:
 <div> 
  <a href="https://www.dribbble.com/ingridmanu" target="_blank" ref="noopener noreferrer">
