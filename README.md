@@ -9,7 +9,7 @@
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridengdesign&layout=compact&langs_count=7&theme=monokai"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div style="display:inline_block" align="center"><br>
   <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
@@ -24,10 +24,15 @@
   <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-
-
-
 </div>
+
+### Minhas SoftSkills:
+
+![CAPACIDADE ANALÍTICA](https://img.shields.io/badge/-CAPACIDADE%20ANAL%C3%8DTICA-272822?style=for-the-badge)
+![PLANEJAMENTO](https://img.shields.io/badge/-PLANEJAMENTO-272822?style=for-the-badge)
+![ORGANIZAÇÃO](https://img.shields.io/badge/-ORAGANIZAÇÃO-272822?style=for-the-badge)
+![RESILIÊNCIA](https://img.shields.io/badge/-RESILIÊNCIA-272822?style=for-the-badge)
+![TRABALHO EM EQUIPE](https://img.shields.io/badge/-TRABALHO%20EM%20EQUIPE-272822?style=for-the-badge)
   
   ### O que estou estudando no momento 👩‍💻:
   - Java
@@ -43,6 +48,10 @@
   
   #### Projeto ORACLE ONE - Alura:
   - [Decodificador](https://ingridengdesign.github.io/ChallengeOneLogicaBr/)
+  
+  #### Ferramentas que eu utlizo:
+  ![VS CODE](https://img.shields.io/badge/-VS%20Code-272822?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+  ![ECLIPSE IDE](https://img.shields.io/badge/-Eclipse-272822?style=for-the-badge&logo=eclipseide)
   
   ---
   #### Para saber mais sobre mim:
