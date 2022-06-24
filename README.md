@@ -35,9 +35,10 @@
 ![TRABALHO EM EQUIPE](https://img.shields.io/badge/-TRABALHO%20EM%20EQUIPE-272822?style=for-the-badge)
   
   ### O que estou estudando no momento 👩‍💻:
-  - Java
-  - JavaScript
-  - HTML/CSS
+  ![Java](https://img.shields.io/badge/-Java-CB7E2C?style=for-the-badge&logo=java)&nbsp;
+  <br>
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-CB7E2C?style=for-the-badge&logo=javascript)&nbsp;
+  <br>  
  
   ### Veja alguns dos meus projetos no GitHub Pages:
   
@@ -52,6 +53,7 @@
   #### Ferramentas que eu utlizo:
   ![VS CODE](https://img.shields.io/badge/-VS%20Code-272822?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
   ![ECLIPSE IDE](https://img.shields.io/badge/-Eclipse-272822?style=for-the-badge&logo=eclipseide)
+  
   
   ---
   #### Para saber mais sobre mim:
