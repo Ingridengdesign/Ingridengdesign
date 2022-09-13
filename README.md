@@ -5,7 +5,7 @@
 <div align="center">
   
   <a href="https://github.com/ingridengdesign">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ingridengdesign&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ingridengdesign&show_icons=true&theme=monokai"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridengdesign&layout=compact&langs_count=7&theme=monokai"/>
 </div>
   
@@ -36,8 +36,8 @@
   
   ### O que estou estudando no momento 👩‍💻:
   ![Java](https://img.shields.io/badge/-Java-CB7E2C?style=for-the-badge&logo=java)&nbsp;
-  <br>
   ![JavaScript](https://img.shields.io/badge/-JavaScript-CB7E2C?style=for-the-badge&logo=javascript)&nbsp;
+  ![Angular](https://img.shields.io/badge/-Angular-CB7E2C?style=for-the-badge&logo=angular)&nbsp;
   <br>  
  
   ### Veja alguns dos meus projetos no GitHub Pages:
@@ -53,7 +53,6 @@
   #### Ferramentas que eu utlizo:
   ![VS CODE](https://img.shields.io/badge/-VS%20Code-272822?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
   ![ECLIPSE IDE](https://img.shields.io/badge/-Eclipse-272822?style=for-the-badge&logo=eclipseide)
-  
   
   ---
   #### Para saber mais sobre mim:
