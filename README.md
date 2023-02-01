@@ -1,7 +1,7 @@
 # Olá eu sou Ingrid Emanuelle
 
 
-## Sou Estágiaria no [@itau](https://www.itau.com.br/), graduanda de Design Gráfico e Engenharia de Software
+## Sou estgiária no [@itau](https://www.itau.com.br/), graduanda de Design Gráfico e Engenharia de Software
 
 <div align="center">
   
