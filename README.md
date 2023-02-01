@@ -1,15 +1,20 @@
 # Olá eu sou Ingrid Emanuelle
 
-## Sou Desenvolvedora Trainee na [Nava](https://www.nava.com.br/pt/), e estudante de Design Gráfico. 
+
+## Sou Estágiaria no [@itau](https://www.itau.com.br/), graduanda de Design Gráfico e Engenharia de Software
 
 <div align="center">
   
   <a href="https://github.com/ingridengdesign">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ingridengdesign&show_icons=true&theme=monokai"/>
+  
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ingridengdesign&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridengdesign&layout=compact&langs_count=7&theme=monokai"/>
+  
 </div>
   
 <div style="display:inline_block" align="center"><br>
+  
+  <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
@@ -35,7 +40,6 @@
 ![TRABALHO EM EQUIPE](https://img.shields.io/badge/-TRABALHO%20EM%20EQUIPE-272822?style=for-the-badge)
   
   ### O que estou estudando no momento 👩‍💻:
-  ![Java](https://img.shields.io/badge/-Java-CB7E2C?style=for-the-badge&logo=java)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-CB7E2C?style=for-the-badge&logo=javascript)&nbsp;
   ![Angular](https://img.shields.io/badge/-Angular-CB7E2C?style=for-the-badge&logo=angular)&nbsp;
   <br>  
@@ -52,10 +56,14 @@
   
   #### Ferramentas que eu utlizo:
   ![VS CODE](https://img.shields.io/badge/-VS%20Code-272822?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-  ![ECLIPSE IDE](https://img.shields.io/badge/-Eclipse-272822?style=for-the-badge&logo=eclipseide)
   
   ---
   #### Para saber mais sobre mim:
+  
+  ######  [Meu Site](https://ingridemanuelle.com) <a href="https://ingridemanuelle.com" target="_blank" ref="noopener noreferrer"> <img align="center" width="20" src="https://user-images.githubusercontent.com/71468902/216183385-01a75b0b-a852-4931-85c5-54c45194d613.png"/>
+ </a>
+  
+  ###### Redes Sociais:
 <div> 
  <a href="https://www.dribbble.com/ingridmanu" target="_blank" ref="noopener noreferrer">
   <img align="center" width="64" src="https://img.icons8.com/color/100/000000/dribbble.png"/>
